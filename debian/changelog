@@ -1,0 +1,5 @@
+python-urwid-utils (0.1.2-1) unstable; urgency=low
+
+  * First release (Closes: #895266)
+
+ -- Sebastien Delafond <seb@debian.org>  Mon, 09 Apr 2018 08:49:10 +0200

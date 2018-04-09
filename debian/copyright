@@ -1,0 +1,14 @@
+Format: https://www.debian.org/doc/packaging-manuals/copyright-format/1.0/
+Upstream-Name: urwid_utils
+Source: https://github.com/tonycpsu/urwid_utils
+
+Files: *
+Copyright: Michael Burr, Tony Cebzanov <tonycpsu@gmail.com>
+License: MIT
+
+Files: debian/*
+Copyright: 2018 Sebastien Delafond <seb@debian.org>
+License: MIT
+
+License: MIT
+ See /usr/share/common-licenses/MIT
