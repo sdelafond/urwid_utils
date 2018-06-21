@@ -1,6 +1,6 @@
 Metadata-Version: 1.1
 Name: urwid-utils
-Version: 0.1.2
+Version: 0.1.2.dev2
 Summary: A collection of simple, straightforward, but extensible utilities for the urwid package.
 Home-page: https://github.com/stnbu/urwid_utils
 Author: Tony Cebzanov
