@@ -1,3 +1,9 @@
+python-urwid-utils (0.1.2.dev2-1) unstable; urgency=medium
+
+  * New upstream version 0.1.2.dev2
+
+ -- Sebastien Delafond <seb@debian.org>  Thu, 21 Jun 2018 15:25:22 +0200
+
 python-urwid-utils (0.1.2-1) unstable; urgency=low
 
   * First release (Closes: #895266)
